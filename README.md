@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h3> I'm backend developer contributing on:</h3>
+<h3> I'm skilled with</h3>
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,github,stackoverflow)](https://skillicons.dev)
 
