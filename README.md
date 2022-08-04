@@ -1,7 +1,7 @@
 ### Hi there 👋, I :heartpulse: these :point_down:
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,github,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,github,stackoverflow)](https://skillicons.dev)
 
 
 </br>
