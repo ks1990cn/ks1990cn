@@ -1,14 +1,8 @@
 ### Hi there 👋, I :heartpulse: these :point_down:
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,github,stackoverflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,github,stackoverflow,docker)](https://skillicons.dev)
 
-
-</br>
-<h3><b> I'm Learning these :point_down:</b></h3>
-</br>
-
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 </br>
 <h3>Stats :man_technologist:</h3>
